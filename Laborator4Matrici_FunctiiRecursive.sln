@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laborator4Matrici_FunctiiRecursive", "Laborator4Matrici_FunctiiRecursive\Laborator4Matrici_FunctiiRecursive.csproj", "{FC8CDD02-CB09-421D-98E0-509CD2525434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC8CDD02-CB09-421D-98E0-509CD2525434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8CDD02-CB09-421D-98E0-509CD2525434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8CDD02-CB09-421D-98E0-509CD2525434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8CDD02-CB09-421D-98E0-509CD2525434}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AF00269-A09A-4710-A530-C990B0610CA2}
+	EndGlobalSection
+EndGlobal
